@@ -8,14 +8,13 @@ camera-ready: "-, 2023, Anywhere on Earth"
 location: "San Francisco, CA"
 cover: /assets/img/san-francisco-cover.jpeg
 caption: "SSH-SoC: Safety and Security in Heterogeneous Open System-on-Chip Platforms"
-submission: https://easychair.org/conferences/?conf=rage2023
-hosted: "- 2023"
-hosted-url: https://-
+submission: https://easychair.org/conferences/?conf=sshsoc2023
+hosted: "DAC 2023"
+hosted-url: https://www.dac.com
 ---
 
 ## Announcement
-
-<b>The deadline for submission was extended to - -th.</b>
+-
 
 ## Call for papers
 

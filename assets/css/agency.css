@@ -436,6 +436,10 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
+#speakers .speakers-item .speakers-link img{
+    height:320px;
+}
+
 #speakers .speakers-item .speakers-link .speakers-hover {
     position: absolute;
     width: 100%;
