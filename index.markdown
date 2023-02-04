@@ -2,9 +2,9 @@
 layout: home
 year: 2023
 date: "July 9th, 2023"
-deadline: "-, 2023, Anywhere on Earth"
-notification: "-, 2023, end of the day"
-camera-ready: "-, 2023, Anywhere on Earth"
+deadline: "April 14th, 2023, Anywhere on Earth"
+notification: "May 15th, 2023, end of the day"
+camera-ready: "-"
 location: "San Francisco, CA"
 cover: /assets/img/san-francisco-cover.jpeg
 caption: "SSH-SoC: Safety and Security in Heterogeneous Open System-on-Chip Platforms"
@@ -12,9 +12,6 @@ submission: https://easychair.org/conferences/?conf=sshsoc2023
 hosted: "DAC 2023"
 hosted-url: https://www.dac.com
 ---
-
-## Announcement
--
 
 ## Call for papers
 

@@ -9,7 +9,7 @@ permalink: /organizers/
 <div class="row" id="speakers">
     {% for person in site.organizers %}
         {% if person.organizer_type == "chair" %}
-        <div class="col-sm-4 speakers-item">
+        <div class="col-sm-3 speakers-item">
             <a href="#{{ person.slug }}" class="speakers-link" data-toggle="modal">
                 <div class="speakers-hover">
                     <div class="speakers-hover-content">
@@ -28,7 +28,7 @@ permalink: /organizers/
     {% endfor %}
 </div>
 
-## Steering Committee
+<!-- ## Steering Committee -->
 
 <div class="row" id="speakers">
     {% for person in site.organizers %}
@@ -60,7 +60,7 @@ permalink: /organizers/
 
 <!-- Other organizers -->
 {% assign roles = "tpc|web|publicity" | split: "|" %}
-{% assign headings = "Technical program committee|Web chair|Publicity chair" | split: "|" %}
+{% assign headings = "Technical program committee (TBA)|Web chair|Publicity chair" | split: "|" %}
 
 {% for role in roles %}
 <h2>{{ headings[forloop.index0] }}</h2>
