@@ -437,7 +437,9 @@ section h3.section-subheading {
 }
 
 #speakers .speakers-item .speakers-link img{
-    height:320px;
+    /* height:320px; */
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px #ccc;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover {

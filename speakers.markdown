@@ -10,7 +10,7 @@ permalink: /speakers/
     </div>
 </div>
 
-<h3>TBA</h3>
+<h3>Under continuous update!</h3>
 
 {% for person in site.speakers %}
 <div class="row" id="speakers">
@@ -29,7 +29,7 @@ permalink: /speakers/
             <div class="col-sm-10 speakers-info">
                 <p><b>Name:</b> {{ person.name }} </p>
                 <p><b>Affiliation:</b> {{ person.affiliation }} </p>
-                <p><b>Topic:</b> {{ person.speach.topic }} </p>
+                <p><b>Topic:</b> {{ person.topic }} </p>
             </div>
         </div>
     </div>
