@@ -1,5 +1,5 @@
 ---
-name: Dr. Luca Carloni
+name: Prof. Luca Carloni
 affiliation: Columbia University in the City of New York
 topic: "The ESP Approach to Accelerator Security in Open-Source SoC Platforms"
 pic: assets/data/speakers/carloni.jpeg

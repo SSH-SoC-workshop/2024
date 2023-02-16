@@ -6,7 +6,7 @@ permalink: /organizers/
 
 ## Chair
 
-<div class="row" id="speakers">
+<div class="row organizers" id="speakers">
     {% for person in site.organizers %}
         {% if person.organizer_type == "chair" %}
         <div class="col-sm-3 speakers-item">
