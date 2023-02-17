@@ -43,7 +43,7 @@ This workshop welcomes work-in-progress contributions and novel directions to ta
 ## Workshop format
 
 The workshop will include the following three types of contributions:
-- Submissions of 4-page (IEEE Conference format) workshop papers, which will be peer-reviewed by the workshop’s technical program committee. Accepted papers will be presented with an envisioned time slot of 15 minutes (including the Q&A).
+- Submissions of 4-page (IEEE Conference format) workshop papers, which will be peer-reviewed by the workshop’s technical program committee. Accepted papers will be presented with an envisioned time slot of 15 minutes (including the Q&A). Shorter submissions are also welcome.
 - Invited talks from expert speakers from both academia and industry, with slots of 30-45 minutes, depending on the number of talks.
 - An open discussion that will include experts both from academia and industry as well as the workshop’s audience to further support the discussion and community building in the workshop.
 
