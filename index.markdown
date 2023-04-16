@@ -2,7 +2,7 @@
 layout: home
 year: 2023
 date: "July 9th, 2023"
-deadline: "April 14th, 2023, Anywhere on Earth"
+deadline: "April 21st, 2023, Anywhere on Earth"
 notification: "May 15th, 2023, end of the day"
 camera-ready: "-"
 location: "San Francisco, CA"
