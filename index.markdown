@@ -2,7 +2,7 @@
 layout: home
 year: 2023
 date: "July 9th, 2023"
-deadline: "April 21st, 2023, Anywhere on Earth"
+deadline: "<span style='text-decoration:line-through'>April 14th, 2023, Anywhere on Earth</span><br> April 21st, 2023, Anywhere on Earth"
 notification: "May 15th, 2023, end of the day"
 camera-ready: "-"
 location: "San Francisco, CA"
@@ -13,6 +13,8 @@ hosted: "DAC 2023"
 hosted-url: https://www.dac.com
 ---
 
+
+# <span style="color:red;text-decoration:underline">Deadline extended to April 21st</span>
 ## Call for papers
 
 The diminishing returns of technology scaling on performance have paved the way for innovation in computer architecture towards heterogeneous, domain-specific architectures. Modern systems increasingly comprise domain-specific accelerators as well as specialized system components (buses, network-on-chip, peripherals, sensors, etc..) to efficiently handle the complex and computationally demanding workloads.
