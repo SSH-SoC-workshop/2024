@@ -1,5 +1,5 @@
 ---
-name: Dr. Paul Elliott
+name: Paul Elliott
 affiliation: Codasip
 topic: "High level synthesis for safe and secure compute"
 pic: assets/data/speakers/elliott.jpeg
