@@ -86,7 +86,6 @@ permalink: /agenda/
         overflow: visible;
     }
 </style>
-
 <table style="border-collapse:collapse;margin-left:5.64pt" cellspacing="0">
     <tr style="height:30pt">
         <td style="width:499pt" colspan="2" bgcolor="#EFAA87">
@@ -102,14 +101,28 @@ permalink: /agenda/
                 08:45- <span class="s1">Welcome message from the chairs 9:00</span></p>
         </td>
     </tr>
-    <tr style="height:53pt">
-        <td style="width:499pt" colspan="2" bgcolor="#F6E690">
-            <p class="s3"
-                style="padding-top: 8pt;padding-left: 8pt;text-indent: 0pt;line-height: 67%;text-align: left;">9:00-
-                <b>Invited Talk: The Silicon Commons: Enabling OpenTitan Design Flexibility</b></p>
-            <p class="s3" style="padding-left: 8pt;text-indent: 0pt;line-height: 65%;text-align: left;">9:40
-                <b>Dominic Rizzo</b></p>
-            <p class="s5" style="padding-left: 75pt;text-indent: 0pt;line-height: 9pt;text-align: left;">OpenTitan
+    <tr style="height:13pt">
+        <td style="width:57pt" bgcolor="#F6E690">
+            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">09:00-</p>
+        </td>
+        <td style="width:442pt" bgcolor="#F6E690">
+            <p class="s4" style="padding-top: 3pt;padding-left: 18pt;text-indent: 0pt;text-align: left;">Invited Talk: The Silicon Commons: Enabling OpenTitan Design Flexibility</p>
+        </td>
+    </tr>
+    <tr style="height:13pt">
+        <td style="width:57pt" bgcolor="#F6E690">
+            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">09:40</p>
+        </td>
+        <td style="width:442pt" bgcolor="#F6E690">
+            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Dominic Rizzo</p>
+        </td>
+    </tr>
+    <tr style="height:17pt">
+        <td style="width:57pt" bgcolor="#F6E690">
+            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+        </td>
+        <td style="width:442pt" bgcolor="#F6E690">
+            <p class="s5" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Open Titan
             </p>
         </td>
     </tr>
