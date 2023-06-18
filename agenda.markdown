@@ -86,9 +86,9 @@ permalink: /agenda/
         overflow: visible;
     }
 </style>
-<table class="program">
+<table class="program"  cellspacing="2" cellpadding="2">
     <tr>
-        <td class="program-tag">
+        <td class="program-tag" colspan="2">
             Sunday, 9th July 2023 - Morning session
         </td>
     </tr>
