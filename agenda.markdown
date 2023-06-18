@@ -104,6 +104,7 @@ permalink: /agenda/
         </td>
     </tr>
     <tr>
+        <td class="program-topic"></td>
         <td class="program-topic">Morning Session<br>
         Chair <i>Francesco Restuccia</i>
         </td>
@@ -208,7 +209,6 @@ permalink: /agenda/
                 Flasskamp, Christian Klarhorst and Jens Hagemeyer</span>
         </td>
     </tr>
-        <tr>
         <td class="program-break">15:30-16:00</td>
         <td class="program-break">Short Break</td>
     </tr>
