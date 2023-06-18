@@ -86,366 +86,153 @@ permalink: /agenda/
         overflow: visible;
     }
 </style>
-<table style="border-collapse:collapse;margin-left:5.64pt" cellspacing="0">
-    <tr style="height:30pt">
-        <td style="width:499pt" colspan="2" bgcolor="#EFAA87">
-            <p class="s1" style="padding-top: 8pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">Sunday, 9th
-                July 2023 - Morning session</p>
+<table class="program">
+    <tr>
+        <td class="program-tag">
+            Sunday, 9th July 2023 - Morning session
         </td>
     </tr>
-    <tr style="height:33pt">
-        <td style="width:499pt" colspan="2" bgcolor="#D7D7C3">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s2"
-                style="padding-left: 8pt;padding-right: 260pt;text-indent: 0pt;line-height: 52%;text-align: left;">
-                08:45- <span class="s1">Welcome message from the chairs 9:00</span></p>
+    <tr>
+        <td class="program-event">08:45-09:00</td>
+        <td class="program-event">Welcome message from the chairs</td>
+    </tr>
+    <tr>
+        <td class="program-special-event">09:00-09:40</td>
+        <td class="program-special-event"><b>Invited Talk: The Silicon Commons: Enabling OpenTitan Design Flexibility</b>
+            <b><br>&emsp;<a>Dominic Rizzo,</a></b>
+            <br>&emsp;<a>Open Titan </a>
         </td>
     </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">09:00-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-top: 3pt;padding-left: 18pt;text-indent: 0pt;text-align: left;">Invited Talk: The Silicon Commons: Enabling OpenTitan Design Flexibility</p>
+    <tr>
+        <td class="program-topic">Morning Session<br>
+        Chair <i>Francesco Restuccia</i>
         </td>
     </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">09:40</p>
+    <tr>
+        <td>
+            9:40-10:05
         </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Dominic Rizzo</p>
-        </td>
-    </tr>
-    <tr style="height:17pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s5" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Open Titan
-            </p>
+        <td>
+            Protego: A Low-Overhead Open-Source I/O Physical Memory Protection Unit for RISC-V
+            <br>
+                <span class="program-speaker">Nils
+                Wistoff, Andreas Kuster, Michael Rogenmoser, Robert Balas, Moritz Schneider and Luca Benini</span>
         </td>
     </tr>
-    <tr style="height:33pt">
-        <td style="width:499pt" colspan="2" bgcolor="#D9E2F3">
-            <p class="s1" style="padding-top: 4pt;padding-left: 75pt;text-indent: 0pt;text-align: left;">Morning
-                Session</p>
-            <p class="s1" style="padding-left: 75pt;text-indent: 0pt;text-align: left;">Chair: <i>Francesco
-                    Restuccia</i></p>
+    <tr>
+        <td>
+            10:05-10:30
+        </td>
+        <td>
+            You Can Hide but You Can’t Verify: On Side-channel Countermeasure Verification
+            <br><span class="program-speaker">Patrick
+                Schaumont</span>
         </td>
     </tr>
-    <tr style="height:18pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">9:40-</p>
+    <tr>
+        <td>
+            10:30-10:55
         </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s1"
-                style="padding-top: 5pt;padding-left: 18pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                Protego: A Low-Overhead Open-Source I/O Physical Memory Protection Unit for RISC-V</p>
-        </td>
-    </tr>
-    <tr style="height:16pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">10:05</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s6" style="padding-left: 18pt;text-indent: 0pt;line-height: 10pt;text-align: left;">Nils
-                Wistoff, Andreas Kuster, Michael Rogenmoser, Robert Balas, Moritz Schneider and Luca Benini</p>
+        <td>
+            Efficient and Side-Channel Resistant Ed25519 on the ARM Cortex-M4
+            <br>
+            <span class="program-speaker">Daniel
+                Owens, Rabih El Khatib, Mojtaba Bisheh Niasar and Reza Azarderakhsh</span>
         </td>
     </tr>
-    <tr style="height:17pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-top: 2pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">10:05-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s1"
-                style="padding-top: 3pt;padding-left: 18pt;text-indent: 0pt;line-height: 12pt;text-align: left;">You
-                Can Hide but You Can’t Verify: On Side-channel Countermeasure Verification</p>
+    <tr>
+        <td class="program-break">10:55-11:20</td>
+        <td class="program-break">Short Break</td>
+    </tr>
+    <tr>
+        <td class="program-special-event">11:20-12:00</td>
+        <td class="program-special-event"><b>Invited
+                Talk: Transparency in Hardware Security: Challenges and Solutions</b>
+            <b><br>&emsp;<a>Jason Oberg,</a></b>
+            <br>&emsp;<a>Cycuity </a>
         </td>
     </tr>
-    <tr style="height:16pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">10:30</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s6" style="padding-left: 18pt;text-indent: 0pt;line-height: 10pt;text-align: left;">Patrick
-                Schaumont</p>
-        </td>
-    </tr>
-    <tr style="height:17pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">10:30-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s1"
-                style="padding-top: 3pt;padding-left: 18pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                Efficient and Side-Channel Resistant Ed25519 on the ARM Cortex-M4</p>
+    <tr>
+        <td class="program-special-event">11:20-12:00</td>
+        <td class="program-special-event"><b>Invited
+                Talk: Open-Source HW Commercial Adoption: Lessons Learned
+                </b>
+            <b><br>&emsp;<a>Rick o&#39;Connor,</a></b>
+            <br>&emsp;<a>OpenHW Group</a>
         </td>
     </tr>
-    <tr style="height:15pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">10:55</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s6" style="padding-left: 18pt;text-indent: 0pt;line-height: 10pt;text-align: left;">Daniel
-                Owens, Rabih El Khatib, Mojtaba Bisheh Niasar and Reza Azarderakhsh</p>
+
+    
+   <tr>
+        <td class="program-break">12:00-13:30</td>
+        <td class="program-break">Lunch</td>
+    </tr>
+    <tr>
+        <td class="program-tag" colspan="2">
+            Sunday, 9th
+                July 2023 - Afternoon session
         </td>
     </tr>
-    <tr style="height:33pt">
-        <td style="width:57pt" bgcolor="#F7AABB">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">10:55-</p>
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;text-align: left;">11:20</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7AABB">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s1" style="padding-left: 18pt;text-indent: 0pt;text-align: left;">Short Break</p>
-        </td>
-    </tr>
-    <tr style="height:18pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">11:20-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-top: 3pt;padding-left: 18pt;text-indent: 0pt;text-align: left;">Invited
-                Talk: Transparency in Hardware Security: Challenges and Solutions</p>
+    <tr>
+        <td class="program-special-event">14:00-14:40</td>
+        <td class="program-special-event"><b>Invited
+                Talk: CarField: an open research platform for safety, resilient and time-predictable systems
+                </b>
+            <b><br>&emsp;<a>Angelo
+                Garofalo</a></b>
+            <br>&emsp;<a>University of Bologna</a>
         </td>
     </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">12:00</p>
+   <tr>
+        <td class="program-topic"></td>
+        <td class="program-topic">Afternoon Session <br>Chair: <i>Biruk Seyoum</i></td>
+    </tr>
+    <tr>
+        <td>
+            14:40-15:05
         </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Jason
-                Oberg</p>
+        <td>
+            ReDSEa:
+                Automated Acceleration of Triangular Solver on Supercloud Heterogeneous Systems
+                <br><span class="program-speaker">Georgios
+                Zacharopoulos, Ilias Bournias, Verner Vlacic and Lukas Cavigelli</span>
+        </td>
+    <tr>
+        <td>
+            15:05-15:30
+        </td>
+        <td>
+                Trustworthy System-on-Chip by monitoring system behavior at runtime
+                <br>
+                <span class="program-speaker">Martin
+                Flasskamp, Christian Klarhorst and Jens Hagemeyer</span>
         </td>
     </tr>
-    <tr style="height:17pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s5" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Cycuity
-            </p>
+        <tr>
+        <td class="program-break">15:30-16:00</td>
+        <td class="program-break">Short Break</td>
+    </tr>
+    <tr>
+        <td class="program-special-event">16:00-16:40</td>
+        <td class="program-special-event"><b>Invited
+                Talk: The ESP Approach to Accelerator Security in Open-Source SoC Platforms</b>
+            <b><br>&emsp;<a>Luca Carloni,</a></b>
+            <br>&emsp;<a>Columbia University in the city of New York </a>
         </td>
     </tr>
-    <tr style="height:17pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">12:00-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-top: 3pt;padding-left: 18pt;text-indent: 0pt;text-align: left;">Invited
-                Talk: Open-Source HW Commercial Adoption: Lessons Learned</p>
+    <tr>
+        <td class="program-special-event">16:40-17:10</td>
+        <td class="program-special-event"><b>Invited Talk: High level synthesis for safe and secure compute</b>
+            <b><br>&emsp;<a>Paul Elliott,</a></b>
+            <br>&emsp;<a>Codasip </a>
         </td>
     </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">12:40</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Rick
-                o&#39;Connor</p>
-        </td>
+    <tr>
+        <td class="program-event">17:20-17:45</td>
+        <td class="program-event">Open Discussion</td>
     </tr>
-    <tr style="height:16pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s5" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">OpenHW
-                Group</p>
-        </td>
-    </tr>
-    <tr style="height:33pt">
-        <td style="width:57pt" bgcolor="#F7AABB">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">12:40-</p>
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;text-align: left;">14:00</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7AABB">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s1" style="padding-left: 18pt;text-indent: 0pt;text-align: left;">Lunch</p>
-        </td>
-    </tr>
-    <tr style="height:20pt">
-        <td style="width:499pt" colspan="2" bgcolor="#EFAA87">
-            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">Sunday, 9th
-                July 2023 - Afternoon session</p>
-        </td>
-    </tr>
-    <tr style="height:18pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">14:00-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-top: 4pt;padding-left: 18pt;text-indent: 0pt;text-align: left;">Invited
-                Talk: CarField: an open research platform for safety, resilient and time-</p>
-        </td>
-    </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">14:40</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
-                predictable systems</p>
-        </td>
-    </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Angelo
-                Garofalo</p>
-        </td>
-    </tr>
-    <tr style="height:16pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s5" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">University
-                of Bologna</p>
-        </td>
-    </tr>
-    <tr style="height:33pt">
-        <td style="width:499pt" colspan="2" bgcolor="#D9E2F3">
-            <p class="s1"
-                style="padding-top: 4pt;padding-left: 75pt;padding-right: 310pt;text-indent: 0pt;text-align: left;">
-                Afternoon Session Chair: <i>Biruk Seyoum</i></p>
-        </td>
-    </tr>
-    <tr style="height:18pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">14:40-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-top: 4pt;padding-left: 18pt;text-indent: 0pt;text-align: left;">ReDSEa:
-                Automated Acceleration of Triangular Solver on Supercloud Heterogeneous</p>
-        </td>
-    </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">15:05</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Systems
-            </p>
-        </td>
-    </tr>
-    <tr style="height:15pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s6" style="padding-left: 18pt;text-indent: 0pt;line-height: 10pt;text-align: left;">Georgios
-                Zacharopoulos, Ilias Bournias, Verner Vlacic and Lukas Cavigelli</p>
-        </td>
-    </tr>
-    <tr style="height:17pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">15:05-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s1"
-                style="padding-top: 4pt;padding-left: 18pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                Trustworthy System-on-Chip by monitoring system behavior at runtime</p>
-        </td>
-    </tr>
-    <tr style="height:15pt">
-        <td style="width:57pt" bgcolor="#F7F7F7">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">15:30</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7F7F7">
-            <p class="s6" style="padding-left: 18pt;text-indent: 0pt;line-height: 10pt;text-align: left;">Martin
-                Flasskamp, Christian Klarhorst and Jens Hagemeyer</p>
-        </td>
-    </tr>
-</table>
-<table style="border-collapse:collapse;margin-left:5.64pt" cellspacing="0">
-    <tr style="height:33pt">
-        <td style="width:57pt" bgcolor="#F7AABB">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">15:30-</p>
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;text-align: left;">16:00</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F7AABB">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s1" style="padding-left: 18pt;text-indent: 0pt;text-align: left;">Short Break</p>
-        </td>
-    </tr>
-    <tr style="height:37pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">16:00-</p>
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;text-align: left;">16:40</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 13pt;text-align: left;">Invited
-                Talk: The ESP Approach to Accelerator Security in Open-Source SoC Platforms</p>
-        </td>
-    </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Luca
-                Carloni</p>
-        </td>
-    </tr>
-    <tr style="height:20pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s5" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Columbia
-                University in the city of New York</p>
-        </td>
-    </tr>
-    <tr style="height:20pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-top: 6pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">16:40-</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-top: 6pt;padding-left: 18pt;text-indent: 0pt;text-align: left;">Invited
-                Talk: High level synthesis for safe and secure compute</p>
-        </td>
-    </tr>
-    <tr style="height:13pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">17:20</p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s4" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Paul
-                Elliott</p>
-        </td>
-    </tr>
-    <tr style="height:16pt">
-        <td style="width:57pt" bgcolor="#F6E690">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </td>
-        <td style="width:442pt" bgcolor="#F6E690">
-            <p class="s5" style="padding-left: 18pt;text-indent: 0pt;line-height: 11pt;text-align: left;">Codasip
-            </p>
-        </td>
-    </tr>
-    <tr style="height:34pt">
-        <td style="width:57pt" bgcolor="#D7D7C3">
-            <p class="s1" style="padding-top: 4pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">17:20-</p>
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;text-align: left;">17:45</p>
-        </td>
-        <td style="width:442pt" bgcolor="#D7D7C3">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s1" style="padding-left: 18pt;text-indent: 0pt;text-align: left;">Open Discussion</p>
-        </td>
-    </tr>
-    <tr style="height:32pt">
-        <td style="width:57pt" bgcolor="#D7D7C3">
-            <p class="s1" style="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">17:45-</p>
-            <p class="s1" style="padding-left: 8pt;text-indent: 0pt;text-align: left;">18:00</p>
-        </td>
-        <td style="width:442pt" bgcolor="#D7D7C3">
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s1" style="padding-left: 18pt;text-indent: 0pt;text-align: left;">Closing Remarks</p>
-        </td>
+    <tr>
+        <td class="program-event">17:45-18:00</td>
+        <td class="program-event">Closing Remarks</td>
     </tr>
 </table>
