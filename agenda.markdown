@@ -148,24 +148,25 @@ permalink: /agenda/
     <tr>
         <td class="program-special-event">11:20-12:00</td>
         <td class="program-special-event"><b>Invited
-                Talk: Transparency in Hardware Security: Challenges and Solutions</b>
-            <b><br>&emsp;<a>Jason Oberg,</a></b>
-            <br>&emsp;<a>Cycuity </a>
-        </td>
-    </tr>
-    <tr>
-        <td class="program-special-event">11:20-12:00</td>
-        <td class="program-special-event"><b>Invited
                 Talk: Open-Source HW Commercial Adoption: Lessons Learned
                 </b>
             <b><br>&emsp;<a>Rick o&#39;Connor,</a></b>
             <br>&emsp;<a>OpenHW Group</a>
         </td>
     </tr>
+    <tr>
+        <td class="program-special-event">12:00-12:40</td>
+        <td class="program-special-event"><b>Invited
+                Talk: Transparency in Hardware Security: Challenges and Solutions</b>
+            <b><br>&emsp;<a>Jason Oberg,</a></b>
+            <br>&emsp;<a>Cycuity </a>
+        </td>
+    </tr>
+    
 
     
    <tr>
-        <td class="program-break">12:00-13:30</td>
+        <td class="program-break">12:40-14:00</td>
         <td class="program-break">Lunch</td>
     </tr>
     <tr>
