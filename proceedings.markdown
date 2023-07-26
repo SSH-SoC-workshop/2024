@@ -22,7 +22,7 @@ permalink: /proceedings/
         <tr>
             <td>
                 ReDSEa: Automated Acceleration of Triangular Solver on Supercloud Heterogeneous Systems [ 
-                <a href="/assets/data/papers/redsea.pdf"><i class="fa fa-file-text-o"></i></a>
+                <a href="/2023/assets/data/papers/redsea.pdf"><i class="fa fa-file-text-o"></i></a>
                 ]
                 <br>
                 <span class="program-speaker">Georgios Zacharopoulos, Ilias Bournias, Verner Vlacic, and Lukas Cavigelli</span>
@@ -31,7 +31,7 @@ permalink: /proceedings/
         <tr>
             <td>
                 Efficient and Side-Channel Resistant Ed25519 on ARM Cortex-M4 [ 
-                <a href="/assets/data/papers/ed25519_4pg_camera-ready.pdf"><i class="fa fa-file-text-o"></i></a>
+                <a href="/2023/assets/data/papers/ed25519_4pg_camera-ready.pdf"><i class="fa fa-file-text-o"></i></a>
                 ]
                 <br>
                 <span class="program-speaker">Daniel Owens, Rabih El Khatib, Mojtaba Bisheh Niasar, and Reza Azarderakhsh<br>
@@ -41,7 +41,7 @@ permalink: /proceedings/
         <tr>
             <td>
                 Protego: A Low-Overhead Open-Source I/O Physical Memory Protection Unit for RISC-V [ 
-                <a href="/assets/data/papers/SSH_SOC_IOPMP-10.pdf"><i class="fa fa-file-text-o"></i></a>
+                <a href="/2023/assets/data/papers/SSH_SOC_IOPMP-10.pdf"><i class="fa fa-file-text-o"></i></a>
                 ]
                 <br>
                 <span class="program-speaker">Nils Wistoff, Andreas Kuster, Michael Rogenmoser, Robert Balas, Moritz Schneider, and Luca Benini<br>
@@ -51,7 +51,7 @@ permalink: /proceedings/
         <tr>
             <td>
                 Trustworthy System-on-Chip by monitoring system behavior at runtime [ 
-                <a href="/assets/data/slides/SSH-SoC_2023_paper_3_camera-ready.pdf"><i class="fa fa-file-text-o"></i></a>
+                <a href="/2023/assets/data/slides/SSH-SoC_2023_paper_3_camera-ready.pdf"><i class="fa fa-file-text-o"></i></a>
                 ]
                 <br>
                 <span class="program-speaker">Martin Flasskamp, Christian Klarhorst, and Jens Hagemeyer<br>
@@ -61,7 +61,7 @@ permalink: /proceedings/
         <tr>
             <td>
                 You Can Hide but You Can’t Verify: On Side-channel Countermeasure Verification [ 
-                <a href="/assets/data/papers/SSHSOC_2023-paper2.pdf"><i class="fa fa-file-text-o"></i></a>
+                <a href="/2023/assets/data/papers/SSHSOC_2023-paper2.pdf"><i class="fa fa-file-text-o"></i></a>
                 ]
                 <br>
                 <span class="program-speaker">Patrick Schaumont<br>
