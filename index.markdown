@@ -14,7 +14,6 @@ hosted-url: https://www.dac.com
 ---
 
 
-# <span style="color:red;text-decoration:underline">Deadline extended to April 21st</span>
 ## Call for papers
 
 The diminishing returns of technology scaling on performance have paved the way for innovation in computer architecture towards heterogeneous, domain-specific architectures. Modern systems increasingly comprise domain-specific accelerators as well as specialized system components (buses, network-on-chip, peripherals, sensors, etc..) to efficiently handle the complex and computationally demanding workloads.
