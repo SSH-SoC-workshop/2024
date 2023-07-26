@@ -51,7 +51,7 @@ permalink: /proceedings/
         <tr>
             <td>
                 Trustworthy System-on-Chip by monitoring system behavior at runtime [ 
-                <a href="/2023/assets/data/slides/SSH-SoC_2023_paper_3_camera-ready.pdf"><i class="fa fa-file-text-o"></i></a>
+                <a href="/2023/assets/data/papers/SSH-SoC_2023_paper_3_camera-ready.pdf"><i class="fa fa-file-text-o"></i></a>
                 ]
                 <br>
                 <span class="program-speaker">Martin Flasskamp, Christian Klarhorst, and Jens Hagemeyer<br>
