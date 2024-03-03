@@ -28,7 +28,7 @@ permalink: /organizers/
     {% endfor %}
 </div>
 
-<!-- ## Steering Committee -->
+## Steering Committee
 
 <div class="row" id="speakers">
     {% for person in site.organizers %}

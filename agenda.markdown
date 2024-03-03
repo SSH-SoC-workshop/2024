@@ -86,7 +86,9 @@ permalink: /agenda/
         overflow: visible;
     }
 </style>
-<table class="program"  cellspacing="2" cellpadding="2">
+<h2>TBD</h2>
+
+<table class="program" style="display:none" cellspacing="2" cellpadding="2">
     <tr>
         <td class="program-tag" colspan="2">
             Sunday, 9th July 2023 - Morning session
@@ -162,9 +164,6 @@ permalink: /agenda/
             <br>&emsp;<a>Cycuity </a>
         </td>
     </tr>
-    
-
-    
    <tr>
         <td class="program-break">12:40-14:00</td>
         <td class="program-break">Lunch</td>

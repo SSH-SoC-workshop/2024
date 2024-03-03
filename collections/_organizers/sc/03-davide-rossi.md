@@ -1,7 +1,7 @@
 ---
 slug: rossi
 name: Prof. Davide Rossi
-role: Technical Program Committee Co-Chair
+role: -
 affiliation: University of Bologna, Bologna, Italy
 email: davide.rossi@unibo.it
 webpage: https://www.unibo.it/sitoweb/davide.rossi/en

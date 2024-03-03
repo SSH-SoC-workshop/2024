@@ -54,6 +54,8 @@ plugins:
 # Collections settings
 collections_dir: collections
 collections:
+  pastevents:
+    output: false
   organizers:
     output: false
   speakers:

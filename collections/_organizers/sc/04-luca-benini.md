@@ -1,7 +1,7 @@
 ---
 slug: benini
 name: Prof. Luca Benini
-role: Technical Program Committee Co-Chair
+role: -
 affiliation: ETH Zurich and University of Bologna
 email: lbenini@iis.ee.ethz.ch
 webpage: https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html
