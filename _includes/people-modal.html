@@ -1,5 +1,7 @@
 {% if include.person.organizer_type == "chair" %}
   {% assign person_type = "organizer" %}
+{% else if include.person.organizer_type == "sc" %}
+  {% assign person_type = "sc" %}
 {% else %}
   {% assign person_type = "speaker" %}
 {% endif %}

@@ -30,7 +30,7 @@ permalink: /organizers/
 
 ## Steering Committee
 
-<div class="row">
+<div class="row" id="speakers">
     {% for person in site.organizers %}
         {% if person.organizer_type == "sc" %}
         <div class="col-sm-4 speakers-item">

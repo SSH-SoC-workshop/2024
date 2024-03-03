@@ -1,5 +1,5 @@
 ---
-slug: restuccia
+slug: restuccia-1
 name: Dr. Francesco Restuccia
 role: -
 affiliation: University of California, San Diego, CA, USA
