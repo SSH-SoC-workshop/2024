@@ -1,7 +1,7 @@
 ---
 slug: restuccia-1
 name: Dr. Francesco Restuccia
-role: -
+role: Steering committee
 affiliation: University of California, San Diego, CA, USA
 email: frestuccia@ucsd.edu
 webpage: https://www.linkedin.com/in/frestuccia/

@@ -1,7 +1,7 @@
 ---
 slug: rossi
 name: Prof. Davide Rossi
-role: -
+role: Steering committee
 affiliation: University of Bologna, Bologna, Italy
 email: davide.rossi@unibo.it
 webpage: https://www.unibo.it/sitoweb/davide.rossi/en
