@@ -1,7 +1,7 @@
 ---
 slug: restuccia
 name: Dr. Francesco Restuccia
-role: General chair
+role: General Chair
 affiliation: University of California, San Diego, CA, USA
 email: frestuccia@ucsd.edu
 webpage: https://www.linkedin.com/in/frestuccia/

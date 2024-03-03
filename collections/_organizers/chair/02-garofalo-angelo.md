@@ -1,7 +1,7 @@
 ---
 slug: garofalo
 name: Dr. Angelo Garofalo
-role: Program chair
+role: Technical Program Committee Chair
 affiliation: University of Bologna, Italy
 email: angelo.garofalo@unibo.it
 webpage: https://www.unibo.it/sitoweb/angelo.garofalo
