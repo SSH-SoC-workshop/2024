@@ -33,7 +33,7 @@ permalink: /organizers/
 <div class="row organizers" id="speakers">
     {% for person in site.organizers %}
         {% if person.organizer_type == "sc" %}
-        <div class="col-sm-4 speakers-item">
+        <div class="col-sm-3 speakers-item">
             <a href="#{{ person.slug }}" class="speakers-link" data-toggle="modal">
                 <div class="speakers-hover">
                     <div class="speakers-hover-content">
