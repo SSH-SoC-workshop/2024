@@ -8,7 +8,7 @@ camera-ready: "May 30th, 2024"
 location: "San Francisco, CA"
 cover: /assets/img/san-francisco-cover.jpeg
 caption: "SSH-SoC: Safety and Security in Heterogeneous Open System-on-Chip Platforms"
-submission: TBD
+submission: https://easychair.org/conferences/?conf=sshsoc24
 hosted: "DAC 2024"
 hosted-url: https://www.dac.com
 ---
