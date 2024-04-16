@@ -4,7 +4,7 @@ title: Organizers
 permalink: /organizers/
 ---
 
-## Chair
+## Chairs
 
 <div class="row organizers" id="speakers">
     {% for person in site.organizers %}
@@ -28,7 +28,7 @@ permalink: /organizers/
     {% endfor %}
 </div>
 
-## Steering Committee
+## Co-founders and Steering Committee
 
 <div class="row organizers" id="speakers">
     {% for person in site.organizers %}
