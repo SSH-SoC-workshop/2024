@@ -30,6 +30,7 @@ permalink: /speakers/
                 <p><b>Name:</b> {{ person.name }} </p>
                 <p><b>Affiliation:</b> {{ person.affiliation }} </p>
                 <p><b>Topic:</b> {{ person.topic }} </p>
+                <p><b>Bio:</b> {{ person.bio }} </p>
             </div>
         </div>
     </div>
