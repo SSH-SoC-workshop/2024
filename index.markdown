@@ -2,8 +2,8 @@
 layout: home
 year: 2024
 date: "June 23rd, 2024"
-deadline: "April 22nd, 2024, Anywhere on Earth"
-notification: "May 15th, 2024"
+deadline: "Extended to May 3rd, 2024, Anywhere on Earth"
+notification: "May 20th, 2024"
 camera-ready: "May 30th, 2024"
 location: "San Francisco, CA"
 cover: /assets/img/san-francisco-cover.jpeg
