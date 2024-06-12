@@ -91,7 +91,7 @@ permalink: /agenda/
 <table class="program" style="" cellspacing="2" cellpadding="2">
     <tr>
         <td class="program-tag" colspan="2">
-            Sunday, 9th July 2023 - Morning session
+            Sunday June 23rd, 2024
         </td>
     </tr>
     <tr>
