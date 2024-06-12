@@ -209,7 +209,7 @@ permalink: /agenda/
         </td>
     </tr>
     <tr>
-        <td class="program-special-event">13:50-14:25</td>
+        <td class="program-special-event">16:10-16:45</td>
         <td class="program-special-event"><b>Keynote: Copilot, Assured Runtime Verification for Embedded Systems and Hardware</b>
             <b><br>&emsp;<a>Ryan Scott</a></b>
         </td>
