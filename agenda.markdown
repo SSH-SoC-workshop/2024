@@ -86,23 +86,21 @@ permalink: /agenda/
         overflow: visible;
     }
 </style>
-<h2>TBD</h2>
+<!-- <h2>TBD</h2> -->
 
-<table class="program" style="display:none" cellspacing="2" cellpadding="2">
+<table class="program" style="" cellspacing="2" cellpadding="2">
     <tr>
         <td class="program-tag" colspan="2">
             Sunday, 9th July 2023 - Morning session
         </td>
     </tr>
     <tr>
-        <td class="program-event">08:45-09:00</td>
-        <td class="program-event">Welcome message from the chairs</td>
-    </tr>
-    <tr>
-        <td class="program-special-event">09:00-09:40</td>
-        <td class="program-special-event"><b>Invited Talk: The Silicon Commons: Enabling OpenTitan Design Flexibility</b>
-            <b><br>&emsp;<a>Dominic Rizzo,</a></b>
-            <br>&emsp;<a>Open Titan </a>
+        <td class="program-event">08:00-08:15</td>
+        <td class="program-event">
+            Intro from Chairs
+            <b><br>&emsp;<a>Angelo
+                Garofalo</a></b>
+            <br>
         </td>
     </tr>
     <tr>
@@ -112,127 +110,112 @@ permalink: /agenda/
         </td>
     </tr>
     <tr>
+        <td class="program-special-event">08:15-08:50</td>
+        <td class="program-special-event"><b>Keynote: Designing open-source RISC-V based Secure and Safe Flight Computers</b>
+            <b><br>&emsp;<a>Rafail Psiakis</a></b>
+        </td>
+    </tr>
+    <tr>
         <td>
-            9:40-10:05
+            08:50-09:10
         </td>
         <td>
-            Protego: A Low-Overhead Open-Source I/O Physical Memory Protection Unit for RISC-V
+            Critical Sensor Failure Analysis for Proactive Mitigation in Secure System-on-Chip for UAVs
             <br>
-                <span class="program-speaker">Nils
-                Wistoff, Andreas Kuster, Michael Rogenmoser, Robert Balas, Moritz Schneider and Luca Benini</span>
+                <span class="program-speaker">Rafail Psiakis</span>
         </td>
     </tr>
     <tr>
         <td>
-            10:05-10:30
+            09:10-09:30
         </td>
         <td>
-            You Can Hide but You Can’t Verify: On Side-channel Countermeasure Verification
-            <br><span class="program-speaker">Patrick
-                Schaumont</span>
+            The Quest to Build Trust Earlier in Digital Design
+            <br><span class="program-speaker">Benjamin Tan</span>
         </td>
     </tr>
     <tr>
-        <td>
-            10:30-10:55
-        </td>
-        <td>
-            Efficient and Side-Channel Resistant Ed25519 on the ARM Cortex-M4
-            <br>
-            <span class="program-speaker">Daniel
-                Owens, Rabih El Khatib, Mojtaba Bisheh Niasar and Reza Azarderakhsh</span>
+        <td class="program-special-event">09:30-10:05</td>
+        <td class="program-special-event"><b>Keynote: Enhancing hardware security and trust with high-level design methods</b>
+            <b><br>&emsp;<a>Christian Pilato</a></b>
         </td>
     </tr>
     <tr>
-        <td class="program-break">10:55-11:20</td>
-        <td class="program-break">Short Break</td>
+        <td class="program-break">10:05-10:35</td>
+        <td class="program-break">Break</td>
     </tr>
     <tr>
-        <td class="program-special-event">11:20-12:00</td>
-        <td class="program-special-event"><b>Invited
-                Talk: Open-Source HW Commercial Adoption: Lessons Learned
-                </b>
-            <b><br>&emsp;<a>Rick o&#39;Connor,</a></b>
-            <br>&emsp;<a>OpenHW Group</a>
+        <td class="program-special-event">10:35-11:10</td>
+        <td class="program-special-event"><b>Keynote: RISC-V Virtualization at the Edge: where we are and where we are going</b>
+            <b><br>&emsp;<a>José Martins</a></b>
         </td>
     </tr>
     <tr>
-        <td class="program-special-event">12:00-12:40</td>
-        <td class="program-special-event"><b>Invited
-                Talk: Transparency in Hardware Security: Challenges and Solutions</b>
-            <b><br>&emsp;<a>Jason Oberg,</a></b>
-            <br>&emsp;<a>Cycuity </a>
+        <td class="program-special-event">10:35-11:10</td>
+        <td class="program-special-event"><b>Keynote: How We Built The First Commercially Viable Open Source Silicon</b>
+            <b><br>&emsp;<a>Jon Michelson</a></b>
         </td>
     </tr>
-   <tr>
-        <td class="program-break">12:40-14:00</td>
+    <tr>
+        <td class="program-break">11:45-13:15</td>
         <td class="program-break">Lunch</td>
     </tr>
     <tr>
-        <td class="program-tag" colspan="2">
-            Sunday, 9th
-                July 2023 - Afternoon session
-        </td>
-    </tr>
-    <tr>
-        <td class="program-special-event">14:00-14:40</td>
-        <td class="program-special-event"><b>Invited
-                Talk: CarField: an open research platform for safety, resilient and time-predictable systems
-                </b>
-            <b><br>&emsp;<a>Angelo
-                Garofalo</a></b>
-            <br>&emsp;<a>University of Bologna</a>
-        </td>
-    </tr>
-   <tr>
         <td class="program-topic"></td>
-        <td class="program-topic">Afternoon Session <br>Chair: <i>Biruk Seyoum</i></td>
+        <td class="program-topic">Afternoon Session<br>
+        Chair <i>Angelo Garofalo</i>
+        </td>
+    </tr>
+    <tr>
+        <td class="program-special-event">13:15-13:50</td>
+        <td class="program-special-event"><b>Keynote: How we got here</b>
+            <b><br>&emsp;<a>John East</a></b>
+        </td>
+    </tr>
+    <tr>
+        <td class="program-special-event">13:50-14:25</td>
+        <td class="program-special-event"><b>Keynote: Software-Oriented Acceleration: A Novel Heterogeneous SoC Design Paradigm</b>
+            <b><br>&emsp;<a>Jonathan Balkind</a></b>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            14:25-14:45
+        </td>
+        <td>
+            Acceleration of Data Analytics using SVD on Heterogeneous Supercloud Systems
+            <br>
+                <span class="program-speaker">Georgios Zacharopoulos</span>
+        </td>
     </tr>
     <tr>
         <td>
-            14:40-15:05
+            14:45-15:05
         </td>
         <td>
-            ReDSEa:
-                Automated Acceleration of Triangular Solver on Supercloud Heterogeneous Systems
-                <br><span class="program-speaker">Georgios
-                Zacharopoulos, Ilias Bournias, Verner Vlacic and Lukas Cavigelli</span>
-        </td>
-    <tr>
-        <td>
-            15:05-15:30
-        </td>
-        <td>
-                Trustworthy System-on-Chip by monitoring system behavior at runtime
-                <br>
-                <span class="program-speaker">Martin
-                Flasskamp, Christian Klarhorst and Jens Hagemeyer</span>
-        </td>
-    </tr>
-        <td class="program-break">15:30-16:00</td>
-        <td class="program-break">Short Break</td>
-    </tr>
-    <tr>
-        <td class="program-special-event">16:00-16:40</td>
-        <td class="program-special-event"><b>Invited
-                Talk: The ESP Approach to Accelerator Security in Open-Source SoC Platforms</b>
-            <b><br>&emsp;<a>Luca Carloni,</a></b>
-            <br>&emsp;<a>Columbia University in the city of New York </a>
+            Basilisk: An End-to-End Open-Source Linux-Capable RISC-V SoC in 130nm CMOS
+            <br>
+                <span class="program-speaker">Paul Scheffler</span>
         </td>
     </tr>
     <tr>
-        <td class="program-special-event">16:40-17:10</td>
-        <td class="program-special-event"><b>Invited Talk: High level synthesis for safe and secure compute</b>
-            <b><br>&emsp;<a>Paul Elliott,</a></b>
-            <br>&emsp;<a>Codasip </a>
+        <td class="program-break">15:05-15:35</td>
+        <td class="program-break">Break</td>
+    </tr>
+    <tr>
+        <td class="program-special-event">15:35-16:10</td>
+        <td class="program-special-event"><b>Keynote: Open Silicon Security</b>
+            <b><br>&emsp;<a>Ryan Kastner</a></b>
         </td>
     </tr>
     <tr>
-        <td class="program-event">17:20-17:45</td>
-        <td class="program-event">Open Discussion</td>
+        <td class="program-special-event">13:50-14:25</td>
+        <td class="program-special-event"><b>Keynote: Copilot, Assured Runtime Verification for Embedded Systems and Hardware</b>
+            <b><br>&emsp;<a>Ryan Scott</a></b>
+        </td>
     </tr>
     <tr>
-        <td class="program-event">17:45-18:00</td>
+        <td class="program-event">16:45-17:00</td>
         <td class="program-event">Closing Remarks</td>
     </tr>
 </table>
