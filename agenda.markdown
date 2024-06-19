@@ -151,7 +151,7 @@ permalink: /agenda/
         </td>
     </tr>
     <tr>
-        <td class="program-special-event">10:35-11:10</td>
+        <td class="program-special-event">11:10-11:45</td>
         <td class="program-special-event"><b>Keynote: How We Built The First Commercially Viable Open Source Silicon</b>
             <b><br>&emsp;<a>Jon Michelson</a></b>
         </td>
